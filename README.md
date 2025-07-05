@@ -1,4 +1,4 @@
-![DSA](DSA_Header.png "DSA")
+![DSA](DSA_Header.jpg "DSA")
 
 # DSA-Grind 
 
